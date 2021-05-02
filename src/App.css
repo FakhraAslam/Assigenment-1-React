@@ -1,7 +1,52 @@
 .App {
+
+  background-color: silver;
+ 
+}
+.imgDsgn{
+ float: right;
+
+}
+.U-Nav{
   text-align: center;
+
+}
+.U-Fot{
+margin-left: 10px;
 }
 
+.btn-add-cmnt{
+  margin-left: 16%;
+  background-color:brown;
+  color: antiquewhite;
+border-color: brown;
+
+}
+.NavUI{
+  
+  align-items: center;
+  width: 20%;
+ height: 50px;
+ background-color:saddlebrown;
+color:silver;
+}
+.footer{
+  position:relative;
+  align-items: bottom;
+  margin-top: 120px;
+  height: 40px;
+margin-right: 10px;
+  background-color: black;
+  color: beige;
+ 
+}
+.headertop{
+  background-color: #282c34;
+  height: 60px;
+  color:beige;
+text-align: center;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
